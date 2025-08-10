@@ -15,10 +15,6 @@ Encurtador de URLs com autenticação JWT, contagem de cliques, soft delete e do
 - [Autenticação (JWT)](#autenticação-jwt)
 - [Validação & Tratamento de erros](#validação--tratamento-de-erros)
 - [Testes](#testes)
-- [Observabilidade (opcional)](#observabilidade-opcional)
-- [Escalabilidade & Roadmap](#escalabilidade--roadmap)
-- [Requisitos de versão](#requisitos-de-versão)
-- [Licença](#licença)
 
 ---
 
@@ -64,10 +60,6 @@ Aplicação **monolítica** NestJS organizada em módulos (auth, urls) com **Pri
 - **Jest** (testes unitários)
 - **Docker / docker-compose**
 - **Swagger/OpenAPI**
-
-Extras prontos ou fáceis de ativar:
-- **helmet** / **CORS** (segurança)
-- **prom-client** (métricas), **nestjs-pino** (logs) – opcionais via ENV
 
 ---
 
