@@ -182,4 +182,4 @@ docker compose up -d --build
 
 ## Testes
 - **Unitários (Jest)** para Auth e URLs
-- **npm test**
+- **npm run test:docker**
