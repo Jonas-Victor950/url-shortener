@@ -115,7 +115,7 @@ README.md
 
 ### 1) Clonar e preparar ENV
 ```bash
-git clone <repo-url> url-shortener
+git clone https://github.com/Jonas-Victor950/url-shortener.git
 cd url-shortener
 cp .env.example .env
 ```
